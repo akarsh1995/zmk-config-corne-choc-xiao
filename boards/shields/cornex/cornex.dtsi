@@ -99,6 +99,6 @@ nice_view_spi: &spi0 {
 &foostan_corne_5col_layout {
     transform = <&five_column_transform>;
     kscan = <&kscan0>;
-}
+};
 
 
