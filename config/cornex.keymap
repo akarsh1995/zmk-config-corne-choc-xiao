@@ -87,8 +87,8 @@
 		//│ F11      │ F12      │          │          │          │   │          │          │          │          │          │
 			&kp F11    &kp F12    &trans     &trans     &trans         &trans     &trans     &trans     &trans     &trans
 		//├──────────┼──────────┼──────────┼──────────┼──────────┤   ├──────────┼──────────┼──────────┼──────────┼──────────┤
-		//│ BT CLR   │          │          │          │          │   │          │          │          │          │          │
-		   &bt BT_CLR  &trans     &trans     &trans     &trans         &trans     &trans     &trans     &trans     &trans
+		//│ BT CLR   │          │          │          │          │   │          │          │          │          │BOOTLOADER│
+		   &bt BT_CLR  &trans     &trans     &trans     &trans         &trans     &trans     &trans     &trans     &bootloader
 		//╰──────────┴──────────┴──────────┼──────────┼──────────┼──────────┤   ├──────────┼──────────┼──────────┼──────────┴──────────┴──────────╯
 											 &kp LGUI   &trans     &kp SPACE      &kp RET    &trans     &kp RALT
 		//                                 ╰──────────┴──────────┴──────────╯   ╰──────────┴──────────┴──────────╯
