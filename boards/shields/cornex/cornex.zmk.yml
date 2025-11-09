@@ -6,7 +6,6 @@ url:
 requires: [seeeduino_xiao_ble]
 features:
   - keys
-  - display
 siblings:
   - cornex_left
   - cornex_right
